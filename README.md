@@ -137,3 +137,29 @@ Record a baseline before implementing changes. Where feasible, compare pilot tea
 This project demonstrates an end-to-end analytics workflow—from data quality checks and SQL-based segmentation to interactive Power BI reporting and business-focused recommendations. The central lesson is to use attrition patterns to guide better questions, validate potential explanations, and evaluate retention actions with evidence.
 
 **Project category:** HR Analytics · Exploratory Data Analysis · SQL · Power BI · Business Insights
+## 📊 Power BI Dashboard
+
+The Power BI dashboard provides an interactive view of employee attrition patterns across different workforce segments.
+
+### Dashboard Preview
+
+#### Dashboard 1
+
+![HR Attrition Dashboard 1](Screenshots/Dashboard%201.png)
+
+#### Dashboard 2
+
+![HR Attrition Dashboard 2](Screenshots/Dashboard%202.png)
+
+### Interactive Analysis
+
+The dashboard helps explore employee attrition across dimensions such as:
+
+* Department and job role
+* Age and tenure
+* Overtime
+* Job satisfaction and work-life balance
+* Business travel and other employee characteristics
+
+**Note:** Download the Power BI `.pbix` file from the `Dashboard` folder to explore the report in Power BI Desktop.
+
